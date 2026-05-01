@@ -138,3 +138,4 @@ Code is reviewed statically. Run it on a real device + emulator before shipping 
 ## License
 
 Same as the parent project.
+# job-portal-app
