@@ -139,3 +139,4 @@ Code is reviewed statically. Run it on a real device + emulator before shipping 
 
 Same as the parent project.
 # job-portal-app
+# job-portal-app
